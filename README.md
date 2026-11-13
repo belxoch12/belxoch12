@@ -68,7 +68,6 @@ Construyo sistemas que resuelven necesidades reales de negocio, **desde la base 
 | **Sistema de Gestión de Almacén** | Plataforma completa de inventario, compras, requisiciones, entradas/salidas, préstamo de herramientas, reportes programados y permisos granulares por rol, con notificaciones en tiempo real. | ASP.NET Core · EF Core · MySQL · React · SignalR |
 | **Punto de Venta** | Sistema de punto de venta adaptable a cualquier giro, con Clean Architecture, código de barras, carrito y cobro. | .NET 9 · MySQL · React · TypeScript |
 | **POS Abarrotes** | App multiplataforma de punto de venta para tiendas de abarrotes. | Flutter · Dart |
-| **Monitoreo de Red** | Servicio de Windows que consolida dispositivos caídos de UISP, Zabbix y WUP en un solo tablero. | C# · .NET Framework · MySQL |
 | **Sitio web corporativo** | Sitio de una empresa de ingeniería eléctrica con catálogo de servicios, proyectos, blog y encuesta de satisfacción. | React · Vite · Tailwind · Framer Motion |
 
 ## 🚀 Proyectos públicos
